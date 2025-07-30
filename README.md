@@ -28,7 +28,6 @@ Sou apaixonado por desenvolver soluções eficientes e sustentáveis. Gosto de a
 
 - [LinkedIn](https://linkedin.com/in/alaxpereira)  
 - [GitHub](https://github.com/alaxpereira)  
-- [Site pessoal](https://alax.dev) *(opcional)*
 
 ---
 
