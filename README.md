@@ -1,24 +1,36 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" alt="Alax Pereira Avatar" />
-</p>
-
-<h1 align="center">Alax Pereira</h1>
+<h1 align="center">Olá, mundo! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software Full Stack</strong> <br/>
-  .NET • Golang • Flutter • Vue.js • Angular
+  Sou <strong>Alax Pereira</strong>, desenvolvedor de software Full Stack com sólida experiência em soluções escaláveis para Web, Mobile e APIs.
 </p>
 
 ---
 
-### 👨‍💼 Sobre mim
+### 🛠️ Habilidades & Tecnologias
 
-Sou um desenvolvedor de software com foco em soluções web e mobile, apaixonado por performance, segurança e interfaces eficientes. Atuo com tecnologias modernas e estou sempre em busca de evoluir como profissional e contribuir com projetos de alto impacto.
+**Linguagens:** C#, Golang, JavaScript, TypeScript  
+**Frameworks e Plataformas:** .NET, Vue.js, Angular, Flutter  
+**Mobile:** Flutter (Android & iOS), Cordova  
+**Back-End:** APIs RESTful, Microsserviços, Autenticação com JWT  
+**Front-End:** SPAs responsivas com Vue.js e Angular  
+**Boas práticas:** Clean Architecture, SOLID, Testes unitários  
+**Ferramentas:** Git, Redis, Swagger, Docker
 
 ---
 
-### 🛠️ Principais Tecnologias
+### 🔍 O que me move
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/b)
+Sou apaixonado por desenvolver soluções eficientes e sustentáveis. Gosto de atuar no desenvolvimento completo, resolvendo problemas complexos com código limpo e boas práticas. Busco aprendizado contínuo e me realizo entregando soluções com impacto real.
+
+---
+
+### 🌐 Onde me encontrar
+
+- [LinkedIn](https://linkedin.com/in/alaxpereira)  
+- [GitHub](https://github.com/alaxpereira)  
+- [Site pessoal](https://alax.dev) *(opcional)*
+
+---
+
+<p align="center">
+  🚀 Sinta-se à vontade para explorar
